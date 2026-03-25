@@ -64,4 +64,14 @@ Principios fundamentales adicionales de la FSF:
 3. Lucha contra restricciones.
 4. Desarrollo del proyecto GNU.
 
+
+|  Free Software.  |  Open Source  |
+| :---   |  ---:  |
+|  Ético y social.  |  Práctico y técnico.  |
+|  Libertad.  |  Colaboración.  |
+|  FSF.  |  OSI.  |
+|  Richard Stallman.  |  Eric Raymond / Bruce Perens.  |
+
+
+
    
